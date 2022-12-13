@@ -11,4 +11,4 @@ Ports required to run the server in a table format.
 | Game    | 7777 |
 | Steam Query | 27015 |
 
-Configure your server by editing "ServerSettings.ini" in "/LF/Saved/Config/" folder
+Configure server by editing "ServerSettings.ini" in "/LF/Saved/Config/" folder
